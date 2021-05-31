@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "959204262871",
+    "project_id": "roadsurface-2b13a",
+    "storage_bucket": "roadsurface-2b13a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959204262871:android:0bd4eadc33e02ecfb38192",
+        "android_client_info": {
+          "package_name": "com.example.roadsurface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959204262871-s3h7tdnf8skjp6d83re1sm40meuasvcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpA8wrR_cWK_dOKLyWd7pgmNf9p9B8HYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959204262871-s3h7tdnf8skjp6d83re1sm40meuasvcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
